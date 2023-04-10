@@ -1,6 +1,6 @@
 # TAVAR
 
-* PyTorch 1.8.1 (with Python 3.7.0) implementation of the following paper, and this version uses ResNet50 as the backbone network (Aesthetics Network).
+* PyTorch 1.8.1 (with Python 3.7.0) implementation of the following paper. This version uses ResNet50 as the backbone network (Aesthetics Network), and you can replace it with other backbone network.
 
 * If you find our work is useful, pleaes cite our paper:  
 @ARTICLE{TAVAR,  
