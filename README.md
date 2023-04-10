@@ -12,4 +12,8 @@
 
 * Demo.py for model test.
 
+* Pretrained weights: https://pan.baidu.com/s/1ZRWV_I7pbmt7v-7fCsk8Wg?pwd=tv4k
+
 * If you want to retrain the Visual Attribute Analysis Network (VAAN) and Theme Understanding Network (TUN), you need download AADB and EVA databases.
+
+* If you have additional questions, you can email huangyipo@hotmail.com.
