@@ -2,7 +2,7 @@
 
 * PyTorch 1.8.1 (with Python 3.7.0) implementation of the following paper.
 
-* If you find our work is useful, pleaes cite our paper: 
+* If you find our work is useful, pleaes cite our paper:  
 @ARTICLE{10054147,  
   author={Li, Leida and Huang, Yipo and Wu, Jinjian and Yang, Yuzhe and Li, Yaqian and Guo, Yandong and Shi, Guangming},  
   journal={IEEE Transactions on Circuits and Systems for Video Technology},   
