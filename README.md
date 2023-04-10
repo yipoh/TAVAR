@@ -8,3 +8,7 @@ PyTorch 1.8.1 (with Python 3.7.0) implementation of the following paper.
   title={Theme-aware Visual Attribute Reasoning for Image Aesthetics Assessment},   
   year={2023},  
   doi={10.1109/TCSVT.2023.3249185}} 
+
+* Demo.py for model test.
+
+* If you want to retrain the Visual Attribute Analysis Network (VAAN) and Theme Understanding Network (TUN), you need download AADB and EVA databases.
