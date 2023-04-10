@@ -10,7 +10,7 @@
   year={2023},  
   doi={10.1109/TCSVT.2023.3249185}} 
 
-* Demo.py for model test.
+* Demo.py for model test (based on ResNet-50).
 
 * Pretrained weights: https://pan.baidu.com/s/1ZRWV_I7pbmt7v-7fCsk8Wg?pwd=tv4k
 
